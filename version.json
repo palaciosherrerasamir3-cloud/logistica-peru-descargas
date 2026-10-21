@@ -1,8 +1,7 @@
 {
-  "v": 47,
+  "v": 48,
   "peso": "unos 18 MB",
   "notas": [
-    ["Actualización desde la app", "Aviso de versión nueva y botón para descargarla"],
-    ["Envíos Mayorista Kronotime", "Chofer con 2 fotos"]
+    ["Prueba de actualización", "Si ves esto, la actualización desde la app funciona"]
   ]
 }
