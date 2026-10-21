@@ -1,7 +1,18 @@
 {
-  "v": 48,
+  "v": 49,
   "peso": "unos 18 MB",
   "notas": [
-    ["Prueba de actualización", "Si ves esto, la actualización desde la app funciona"]
+    [
+      "Ingreso con huella y PIN",
+      "Entra sin escribir la contraseña"
+    ],
+    [
+      "Cambio rápido de usuario",
+      "Varios usuarios en un mismo celular"
+    ],
+    [
+      "Sin selector de persona",
+      "Se toma de tu usuario"
+    ]
   ]
 }
