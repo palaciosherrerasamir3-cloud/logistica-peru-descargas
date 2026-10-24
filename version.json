@@ -1,18 +1,18 @@
 {
-  "v": 49,
+  "v": 50,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Ingreso con huella y PIN",
-      "Entra sin escribir la contraseña"
+      "Servicios generales para técnicos",
+      "Tus servicios asignados, llegada con ubicación, fotos antes y después"
     ],
     [
-      "Cambio rápido de usuario",
-      "Varios usuarios en un mismo celular"
+      "Terminar y generar reporte",
+      "El reporte PDF queda guardado y lo ve el administrador"
     ],
     [
-      "Sin selector de persona",
-      "Se toma de tu usuario"
+      "Aviso de ubicación",
+      "Te dice si llegaste a la tienda (máximo 150 m)"
     ]
   ]
 }
