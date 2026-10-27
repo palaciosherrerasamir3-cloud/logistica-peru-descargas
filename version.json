@@ -1,10 +1,10 @@
 {
-  "v": 64,
+  "v": 65,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Imprimir tickets",
-      "Corrección: ya no se queda en «Enviando…» al imprimir"
+      "El ticket ahora sale cuadrado al ancho de la impresora"
     ]
   ]
 }
