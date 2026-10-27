@@ -1,10 +1,10 @@
 {
-  "v": 59,
+  "v": 60,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Avisos de tareas",
-      "La app avisa en el celular cuando hay una tarea pendiente de tu área, cada 10 min de 8:00 a 18:00, aunque esté cerrada"
+      "Ahora los avisos suenan en el celular"
     ]
   ]
 }
