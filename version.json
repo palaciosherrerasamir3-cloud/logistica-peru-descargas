@@ -1,10 +1,9 @@
 {
-  "v": 55,
+  "v": 56,
   "peso": "unos 18 MB",
   "notas": [
-    [
-      "Tareas",
-      "Ahora muestra el logo de la empresa, tu saludo y la fecha"
-    ]
+    ["Saludo", "Ahora dice «Buenos días Graciela 👋» con tu nombre, igual en todos los módulos"],
+    ["Envíos Mayorista", "Nuevo buscador por cliente, orden, factura o marca"],
+    ["Averías", "Tienda de origen y Autorizado por ahora son listas desplegables"]
   ]
 }
