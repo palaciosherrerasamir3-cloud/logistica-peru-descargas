@@ -1,14 +1,10 @@
 {
-  "v": 67,
+  "v": 68,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Caja chica",
-      "Botón para escanear el QR de la factura (llena factura, RUC, monto y proveedor); si no lo lee, el RUC completa el proveedor desde Data Proveedores"
-    ],
-    [
-      "Servicios generales",
-      "Corrección: ya abre en la app"
+      "El escaneo del QR ahora lee RUC, factura y monto de más formatos de factura y muestra lo que leyó si algo falta"
     ]
   ]
 }
