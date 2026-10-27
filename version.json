@@ -1,10 +1,10 @@
 {
-  "v": 65,
+  "v": 66,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Imprimir tickets",
-      "El ticket sale cuadrado, con la razón social en una línea, una línea entre productos y el número de O.C. centrado (Kronotime y Sometimes)"
+      "Servicios generales",
+      "Corrección: el módulo de servicios abría en blanco en la app"
     ]
   ]
 }
