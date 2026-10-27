@@ -1,9 +1,10 @@
 {
-  "v": 58,
+  "v": 59,
   "peso": "unos 18 MB",
   "notas": [
-    ["Material POP", "Sumar, Descontar y Contar con tipo de movimiento (Compra, Reposición a tienda…) y nota obligatoria"],
-    ["Mis tareas", "Sin cuadros de arriba; cada tarea es para un área y todos los de esa área la ven"],
-    ["Envíos Mayorista", "Buscador más limpio"]
+    [
+      "Avisos de tareas",
+      "La app avisa en el celular cuando hay una tarea pendiente de tu área, cada 10 min de 8:00 a 18:00, aunque esté cerrada"
+    ]
   ]
 }
