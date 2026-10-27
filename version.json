@@ -4,7 +4,7 @@
   "notas": [
     [
       "Imprimir tickets",
-      "Ahora el ticket sale directo a la impresora Bixolon por IP, sin congelarse"
+      "El ticket sale directo a la impresora Bixolon por IP (cada empresa con su IP, editable desde 🖨 Impresora), sin congelarse"
     ]
   ]
 }
