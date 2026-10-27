@@ -1,9 +1,9 @@
 {
-  "v": 57,
+  "v": 58,
   "peso": "unos 18 MB",
   "notas": [
-    ["Importaciones", "Buscador en lugar de los cuadros de resumen"],
-    ["Picking", "Se quitaron los cuadros de arriba; quedan el buscador y los botones"],
-    ["Averías", "Tienda origen y Autorizado por como listas desplegables (Alen Ortiz y Samir Palacios)"]
+    ["Material POP", "Sumar, Descontar y Contar con tipo de movimiento (Compra, Reposición a tienda…) y nota obligatoria"],
+    ["Mis tareas", "Sin cuadros de arriba; cada tarea es para un área y todos los de esa área la ven"],
+    ["Envíos Mayorista", "Buscador más limpio"]
   ]
 }
