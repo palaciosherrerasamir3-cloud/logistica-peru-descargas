@@ -1,9 +1,9 @@
 {
-  "v": 56,
+  "v": 57,
   "peso": "unos 18 MB",
   "notas": [
-    ["Saludo", "Ahora dice «Buenos días Graciela 👋» con tu nombre, igual en todos los módulos"],
-    ["Envíos Mayorista", "Nuevo buscador por cliente, orden, factura o marca"],
-    ["Averías", "Tienda de origen y Autorizado por ahora son listas desplegables"]
+    ["Importaciones", "Buscador en lugar de los cuadros de resumen"],
+    ["Picking", "Se quitaron los cuadros de arriba; quedan el buscador y los botones"],
+    ["Averías", "Tienda origen y Autorizado por como listas desplegables (Alen Ortiz y Samir Palacios)"]
   ]
 }
