@@ -1,10 +1,10 @@
 {
-  "v": 68,
-  "peso": "unos 18 MB",
+  "v": 69,
+  "peso": "unos 19 MB",
   "notas": [
     [
       "Caja chica",
-      "El escaneo del QR ahora lee RUC, factura y monto de más formatos de factura y muestra lo que leyó si algo falta"
+      "Escáner de comprobantes (bordes y texto nítido), fotos con mejor calidad y fecha del gasto editable (el QR la llena sola)"
     ]
   ]
 }
