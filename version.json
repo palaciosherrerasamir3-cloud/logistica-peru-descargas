@@ -1,14 +1,10 @@
 {
-  "v": 51,
+  "v": 52,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Persona que entrega automática",
-      "Se llena sola con tu usuario en Envíos Bodega y Lima"
-    ],
-    [
-      "Servicios generales",
-      "Mejoras para técnicos"
+      "Se asigna sola según tu usuario, aunque no esté vinculada la ficha"
     ]
   ]
 }
