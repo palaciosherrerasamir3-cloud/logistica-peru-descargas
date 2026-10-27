@@ -1,10 +1,10 @@
 {
-  "v": 60,
+  "v": 61,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Avisos de tareas",
-      "Ahora los avisos suenan en el celular"
+      "Cambio de usuario",
+      "Cerrar sesión y entrar con otro usuario ahora es inmediato"
     ]
   ]
 }
