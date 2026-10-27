@@ -1,10 +1,10 @@
 {
-  "v": 61,
+  "v": 62,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Cambio de usuario",
-      "Cerrar sesión y entrar con otro usuario ahora es inmediato"
+      "Picking Kronotime",
+      "Se quitó el espacio en blanco de arriba y ahora se ven los botones de bodega 1001 / 1008"
     ]
   ]
 }
