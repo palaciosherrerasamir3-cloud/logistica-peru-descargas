@@ -1,10 +1,10 @@
 {
-  "v": 54,
+  "v": 55,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Botón atrás",
-      "El botón de retroceder del celular y de la lectora ahora vuelve a la pantalla anterior"
+      "Tareas",
+      "Ahora muestra el logo de la empresa, tu saludo y la fecha"
     ]
   ]
 }
