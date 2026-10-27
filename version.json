@@ -1,10 +1,10 @@
 {
-  "v": 63,
+  "v": 64,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Imprimir tickets",
-      "El ticket sale directo a la impresora Bixolon por IP (cada empresa con su IP, editable desde 🖨 Impresora), sin congelarse"
+      "Corrección: ya no se queda en «Enviando…» al imprimir"
     ]
   ]
 }
