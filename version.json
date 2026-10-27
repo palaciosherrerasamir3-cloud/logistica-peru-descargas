@@ -1,10 +1,10 @@
 {
-  "v": 53,
+  "v": 54,
   "peso": "unos 18 MB",
   "notas": [
     [
       "Envíos Mayorista",
-      "Facturación ve las órdenes de recoge tienda; chofer las de móvil propia"
+      "Facturación ve todas las órdenes de recoge tienda pendientes de entregar"
     ]
   ]
 }
