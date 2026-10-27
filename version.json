@@ -1,10 +1,10 @@
 {
-  "v": 62,
+  "v": 63,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Picking Kronotime",
-      "Se quitó el espacio en blanco de arriba y ahora se ven los botones de bodega 1001 / 1008"
+      "Imprimir tickets",
+      "Ahora el ticket sale directo a la impresora Bixolon por IP, sin congelarse"
     ]
   ]
 }
