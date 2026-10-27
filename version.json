@@ -1,18 +1,14 @@
 {
-  "v": 50,
+  "v": 51,
   "peso": "unos 18 MB",
   "notas": [
     [
-      "Servicios generales para técnicos",
-      "Tus servicios asignados, llegada con ubicación, fotos antes y después"
+      "Persona que entrega automática",
+      "Se llena sola con tu usuario en Envíos Bodega y Lima"
     ],
     [
-      "Terminar y generar reporte",
-      "El reporte PDF queda guardado y lo ve el administrador"
-    ],
-    [
-      "Aviso de ubicación",
-      "Te dice si llegaste a la tienda (máximo 150 m)"
+      "Servicios generales",
+      "Mejoras para técnicos"
     ]
   ]
 }
