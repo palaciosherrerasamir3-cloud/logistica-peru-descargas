@@ -1,10 +1,14 @@
 {
-  "v": 66,
+  "v": 67,
   "peso": "unos 18 MB",
   "notas": [
     [
+      "Caja chica",
+      "Botón para escanear el QR de la factura (llena factura, RUC, monto y proveedor); si no lo lee, el RUC completa el proveedor desde Data Proveedores"
+    ],
+    [
       "Servicios generales",
-      "Corrección: el módulo de servicios abría en blanco en la app"
+      "Corrección: ya abre en la app"
     ]
   ]
 }
