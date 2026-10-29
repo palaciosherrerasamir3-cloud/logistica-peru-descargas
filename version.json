@@ -1,10 +1,14 @@
 {
-  "v": 71,
+  "v": 74,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Envíos Consignación",
-      "Nuevo en la app: entregas Móvil y Tienda con foto de paquetes y GRE firmada (igual que Mayorista)"
+      "Importaciones · Llegada del vehículo",
+      "Contenedor/Furgón con sus datos, fotos del camión llegando y aperturando, resumen de pallets/cajas/peso y salida del vehículo al final"
+    ],
+    [
+      "Importaciones · Evidencias",
+      "Nuevo botón para subir varias fotos de evidencia desde el celular (se ven en el ERP)"
     ]
   ]
 }
