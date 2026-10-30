@@ -1,10 +1,10 @@
 {
-  "v": 80,
+  "v": 81,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Empaque",
-      "El escaneo se envía solo al leer el código (sin tocar Enter) y cada línea muestra su EAN"
+      "Cambio de usuario",
+      "Al poner el PIN ahora muestra 'Entrando…' mientras carga, para que se note que está trabajando"
     ]
   ]
 }
