@@ -1,14 +1,14 @@
 {
-  "v": 74,
+  "v": 75,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Importaciones · Llegada del vehículo",
-      "Contenedor/Furgón con sus datos, fotos del camión llegando y aperturando, resumen de pallets/cajas/peso y salida del vehículo al final"
+      "Empaque",
+      "Nuevo módulo en la app: abres la caja, escaneas producto por producto (×1, ×6, ×12), cierras cajas y terminas el empaque"
     ],
     [
-      "Importaciones · Evidencias",
-      "Nuevo botón para subir varias fotos de evidencia desde el celular (se ven en el ERP)"
+      "Caja chica",
+      "La foto del comprobante ahora es más liviana y sube más rápido; si la señal está lenta lo avisa"
     ]
   ]
 }
