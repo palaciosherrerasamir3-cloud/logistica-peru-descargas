@@ -1,10 +1,10 @@
 {
-  "v": 82,
+  "v": 83,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Empaque",
-      "El escaneo ahora funciona igual que en Envíos Bodega (se envía solo al leer el código)"
+      "El escaneo se ve al instante y se guarda en segundo plano: ya puedes escanear el siguiente sin esperar"
     ]
   ]
 }
