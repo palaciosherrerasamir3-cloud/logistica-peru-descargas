@@ -1,10 +1,14 @@
 {
-  "v": 76,
+  "v": 77,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Seguridad y Control",
-      "Nuevo módulo en Privado: registro de visitas, personal y equipos desde el celular del guardia"
+      "Corrige que el módulo no abría en la app"
+    ],
+    [
+      "Empaque",
+      "Corrige que el módulo no abría en la app"
     ]
   ]
 }
