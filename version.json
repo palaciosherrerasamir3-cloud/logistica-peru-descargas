@@ -1,10 +1,10 @@
 {
-  "v": 79,
+  "v": 80,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Ingreso con PIN",
-      "Ahora varias personas pueden usar su propio PIN en el mismo celular (arregla 'No credentials found')"
+      "Empaque",
+      "El escaneo se envía solo al leer el código (sin tocar Enter) y cada línea muestra su EAN"
     ]
   ]
 }
