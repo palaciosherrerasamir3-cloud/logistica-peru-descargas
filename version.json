@@ -1,10 +1,10 @@
 {
-  "v": 81,
+  "v": 82,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Cambio de usuario",
-      "Al poner el PIN ahora muestra 'Entrando…' mientras carga, para que se note que está trabajando"
+      "Empaque",
+      "El escaneo ahora funciona igual que en Envíos Bodega (se envía solo al leer el código)"
     ]
   ]
 }
