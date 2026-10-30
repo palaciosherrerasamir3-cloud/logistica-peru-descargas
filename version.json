@@ -1,14 +1,10 @@
 {
-  "v": 77,
+  "v": 78,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Seguridad y Control",
-      "Corrige que el módulo no abría en la app"
-    ],
-    [
-      "Empaque",
-      "Corrige que el módulo no abría en la app"
+      "Registro de equipo: empresa en botones (Sometimes, Kronotime, Austral) y firma de quien trae el equipo"
     ]
   ]
 }
