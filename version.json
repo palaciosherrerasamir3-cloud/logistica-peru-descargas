@@ -1,10 +1,10 @@
 {
-  "v": 78,
+  "v": 79,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Seguridad y Control",
-      "Registro de equipo: empresa en botones (Sometimes, Kronotime, Austral) y firma de quien trae el equipo"
+      "Ingreso con PIN",
+      "Ahora varias personas pueden usar su propio PIN en el mismo celular (arregla 'No credentials found')"
     ]
   ]
 }
