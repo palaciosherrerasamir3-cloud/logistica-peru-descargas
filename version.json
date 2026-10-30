@@ -1,14 +1,10 @@
 {
-  "v": 75,
+  "v": 76,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Empaque",
-      "Nuevo módulo en la app: abres la caja, escaneas producto por producto (×1, ×6, ×12), cierras cajas y terminas el empaque"
-    ],
-    [
-      "Caja chica",
-      "La foto del comprobante ahora es más liviana y sube más rápido; si la señal está lenta lo avisa"
+      "Seguridad y Control",
+      "Nuevo módulo en Privado: registro de visitas, personal y equipos desde el celular del guardia"
     ]
   ]
 }
