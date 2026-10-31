@@ -1,10 +1,10 @@
 {
-  "v": 84,
+  "v": 85,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Empaque",
-      "Ya no se abre el teclado al escanear"
+      "Caja chica",
+      "Al escanear el QR se elige sola la empresa y se sugiere el concepto (botón Ver más)"
     ]
   ]
 }
