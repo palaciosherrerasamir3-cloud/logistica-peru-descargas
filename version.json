@@ -1,10 +1,10 @@
 {
-  "v": 88,
+  "v": 89,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Envíos Consignación",
-      "Ahora también en Kronotime (chofer y facturación), igual que en Sometimes"
+      "Envíos Bodega",
+      "El aviso de duplicado ahora solo salta con la guía repetida; la misma orden en envíos parciales se permite (Sometimes y Kronotime)"
     ]
   ]
 }
