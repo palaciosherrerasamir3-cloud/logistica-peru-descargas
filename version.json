@@ -1,10 +1,14 @@
 {
-  "v": 89,
+  "v": 91,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Envíos Bodega",
-      "El aviso de duplicado ahora solo salta con la guía repetida; la misma orden en envíos parciales se permite (Sometimes y Kronotime)"
+      "Menú",
+      "Actividad y Mis tareas ya no se repiten en el menú: quedan solo en la barra de abajo. Servicios generales se muestra una sola vez para el administrador (en Privado)"
+    ],
+    [
+      "Picking y Locaciones",
+      "Ahora son permisos separados: el botón Picking depende del permiso «Picking» de cada perfil"
     ]
   ]
 }
