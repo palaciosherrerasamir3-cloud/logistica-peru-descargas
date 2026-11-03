@@ -1,7 +1,11 @@
 {
-  "v": 91,
+  "v": 92,
   "peso": "unos 19 MB",
   "notas": [
+    [
+      "Escaneo",
+      "En los campos de escaneo el teclado del celular ya no se abre solo; el botón ⌨ lo abre para escribir a mano"
+    ],
     [
       "Menú",
       "Actividad y Mis tareas ya no se repiten en el menú: quedan solo en la barra de abajo. Servicios generales se muestra una sola vez para el administrador (en Privado)"
