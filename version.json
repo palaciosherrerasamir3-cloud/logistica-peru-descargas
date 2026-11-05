@@ -1,18 +1,14 @@
 {
-  "v": 94,
+  "v": 95,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Actualización",
-      "Se corrigió el aviso que seguía diciendo «Nueva versión disponible» aunque ya estuvieras al día"
+      "Escaneo",
+      "En Importaciones puedes pistolear el EAN o la referencia: la app reconoce cuál es y lo cuenta bien"
     ],
     [
       "Inventario",
       "Nuevo módulo de conteo a ciegas: recibes el conteo que te asigna el administrador, escaneas (cada lectura suma 1) y pulsas «Terminar mi conteo». No ves el stock del sistema"
-    ],
-    [
-      "Escaneo",
-      "Si no hay señal, tus escaneos quedan guardados y se suben solos"
     ]
   ]
 }
