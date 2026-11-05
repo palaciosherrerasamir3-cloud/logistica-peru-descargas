@@ -1,7 +1,11 @@
 {
-  "v": 93,
+  "v": 94,
   "peso": "unos 19 MB",
   "notas": [
+    [
+      "Actualización",
+      "Se corrigió el aviso que seguía diciendo «Nueva versión disponible» aunque ya estuvieras al día"
+    ],
     [
       "Inventario",
       "Nuevo módulo de conteo a ciegas: recibes el conteo que te asigna el administrador, escaneas (cada lectura suma 1) y pulsas «Terminar mi conteo». No ves el stock del sistema"
