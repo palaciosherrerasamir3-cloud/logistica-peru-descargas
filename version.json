@@ -1,14 +1,10 @@
 {
-  "v": 96,
+  "v": 97,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Envíos Lima",
-      "Toma o sube la foto del traslado y la app llena sola la tienda origen, destino, N° de traslado y cantidad. Revisa los datos y guarda"
-    ],
-    [
-      "Escaneo",
-      "En Importaciones puedes pistolear el EAN o la referencia"
+      "Ahora reconoce las tiendas por el código del traslado (ej. 0038 = Multimarca Ripley Jockey), aunque el nombre impreso sea distinto"
     ]
   ]
 }
