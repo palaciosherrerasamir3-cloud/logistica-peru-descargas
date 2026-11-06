@@ -1,10 +1,10 @@
 {
-  "v": 98,
+  "v": 99,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Envíos Lima",
-      "Ahora muestra todos los traslados del WMS. Busca por N° de traslado o filtra por tienda y sube la foto de la persona y la foto del traslado firmado. Los traslados con muchos días sin recepcionar salen primero."
+      "Vuelve a la pantalla anterior mientras se termina la nueva"
     ]
   ]
 }
