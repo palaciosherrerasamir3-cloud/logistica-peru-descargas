@@ -1,10 +1,10 @@
 {
-  "v": 97,
+  "v": 98,
   "peso": "unos 19 MB",
   "notas": [
     [
       "Envíos Lima",
-      "Ahora reconoce las tiendas por el código del traslado (ej. 0038 = Multimarca Ripley Jockey), aunque el nombre impreso sea distinto"
+      "Ahora muestra todos los traslados del WMS. Busca por N° de traslado o filtra por tienda y sube la foto de la persona y la foto del traslado firmado. Los traslados con muchos días sin recepcionar salen primero."
     ]
   ]
 }
