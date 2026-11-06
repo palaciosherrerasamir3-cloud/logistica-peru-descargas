@@ -1,14 +1,14 @@
 {
-  "v": 95,
+  "v": 96,
   "peso": "unos 19 MB",
   "notas": [
     [
-      "Escaneo",
-      "En Importaciones puedes pistolear el EAN o la referencia: la app reconoce cuál es y lo cuenta bien"
+      "Envíos Lima",
+      "Toma o sube la foto del traslado y la app llena sola la tienda origen, destino, N° de traslado y cantidad. Revisa los datos y guarda"
     ],
     [
-      "Inventario",
-      "Nuevo módulo de conteo a ciegas: recibes el conteo que te asigna el administrador, escaneas (cada lectura suma 1) y pulsas «Terminar mi conteo». No ves el stock del sistema"
+      "Escaneo",
+      "En Importaciones puedes pistolear el EAN o la referencia"
     ]
   ]
 }
